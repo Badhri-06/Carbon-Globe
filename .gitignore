@@ -38,3 +38,5 @@ catboost_info/
 lightning_logs/
 *.log
 *.tmp
+~$*
+Carbon_globe*.pdf
