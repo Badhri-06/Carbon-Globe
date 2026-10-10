@@ -40,3 +40,4 @@ lightning_logs/
 *.tmp
 ~$*
 Carbon_globe*.pdf
+/presentation.pptx
