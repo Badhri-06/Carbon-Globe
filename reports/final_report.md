@@ -1,7 +1,7 @@
 # CarbonGlobe AI Emulation Challenge: Technical & Validation Report
 
 **Competition**: IEEE BigData Cup 2026 — AI Emulation Challenge: Global-Scale Land Ecosystem Forecasting  
-**Author / Team**: Lead ML & Optimization Engineering  
+**Author / Team**: Badhri Narayanan M ([@Badhri-06](https://github.com/Badhri-06)), Bavin ([@Bavin22](https://github.com/Bavin22)), Aswitha ([@aswitha570-ux](https://github.com/aswitha570-ux))  
 **Validation Benchmark**: 5-Fold Cross-Validation (< 0.010 Target Achieved: **`0.001393`**)  
 **Submission Status**: Verified (185,130 rows, formatted, scaled, and verified)  
 

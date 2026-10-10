@@ -77,3 +77,11 @@ python -c "from src.check_submission import check_submission_file; check_submiss
 ```
 
 See [reports/final_report.md](file:///c:/Users/badhr/Desktop/Carbon%20Globe/reports/final_report.md) for full scientific formulations, mathematical proofs, and architectural details.
+
+---
+
+## 👥 Team & Contributors
+
+- **Badhri Narayanan M** ([@Badhri-06](https://github.com/Badhri-06))
+- **Bavin** ([@Bavin22](https://github.com/Bavin22))
+- **Aswitha** ([@aswitha570-ux](https://github.com/aswitha570-ux))
